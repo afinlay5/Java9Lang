@@ -2,7 +2,7 @@
 Gradle source code repository for the examples from my blog post, http://bit.ly/Java9Lang.
 Built and tested on SUSE Linux, Linux Mint.
 
-![alt text](https://raw.githubusercontent.com/afinlay5/JavaFX9/master/blog.png)
+![alt text](https://raw.githubusercontent.com/afinlay5/Java9Lang/master/blog.png)
 
 # Requirements
 - Gradle 4.7 
