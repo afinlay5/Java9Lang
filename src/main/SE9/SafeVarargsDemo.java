@@ -27,7 +27,7 @@ SOFTWARE.
 ==============================================================================
 **/
 
-package src.main.SE9;
+package src.main.java.SE9;
 
 public class SafeVarargsDemo {
 	@SafeVarargs

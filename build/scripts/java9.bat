@@ -66,7 +66,7 @@ set CMD_LINE_ARGS=%*
 set CLASSPATH=%APP_HOME%\lib\java9.jar
 
 @rem Execute java9
-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %JAVA9_OPTS%  -classpath "%CLASSPATH%" Java9 %CMD_LINE_ARGS%
+"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %JAVA9_OPTS%  -classpath "%CLASSPATH%" src.main.java.Java9 %CMD_LINE_ARGS%
 
 :end
 @rem End local scope for the variables with windows NT shell

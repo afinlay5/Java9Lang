@@ -13,12 +13,7 @@
 8
 --release
 9
---release
-10
-/home/adrian/Projects/java9/src/main/Java9.java
-/home/adrian/Projects/java9/src/main/SE7/Java7TypeInference.java
 /home/adrian/Projects/java9/src/main/SE9/DOpAnonClDenotable.java
 /home/adrian/Projects/java9/src/main/SE9/PrivIntfMethImpl.java
 /home/adrian/Projects/java9/src/main/SE9/TWREffectivelyFinal.java
 /home/adrian/Projects/java9/src/main/SE9/SafeVarargsDemo.java
-/home/adrian/Projects/java9/src/main/SE8/UnderscoreRemoved.java

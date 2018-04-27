@@ -27,7 +27,7 @@ SOFTWARE.
 ==============================================================================
 **/
 
-package src.main.SE8;
+package src.main.java.SE8;
 
 /*Class file compiled against Java 8.*/
 public class UnderscoreRemoved {

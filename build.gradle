@@ -77,17 +77,5 @@ tasks.withType(JavaCompile) {
 	targetCompatibility = 1.9
 }
 
-/*Main*/
-tasks.withType(JavaCompile) {
-	source='src/main'
-	destinationDir = file("$rootDir/build/classes")
- 	//compilerArgs.addAll(['--release', '10'])
-	configure(options) {
-    	options.compilerArgs << '--release' << '10'
-    }
-	sourceCompatibility = 1.10
-	targetCompatibility = 1.10
-}
-
 /*This will run all files.*/
-mainClassName ='Java9'
+mainClassName ='src.main.java.Java9'

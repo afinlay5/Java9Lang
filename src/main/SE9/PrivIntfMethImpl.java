@@ -27,7 +27,7 @@ SOFTWARE.
 ==============================================================================
 **/
 
-package src.main.SE9;
+package src.main.java.SE9;
 
 /*Because the source is brief, we will keep include the interface and class in the same file.*/
 interface PrivIntfMeth {

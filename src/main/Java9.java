@@ -27,12 +27,12 @@ SOFTWARE.
 ==============================================================================
 **/
 
-package src.main;
+package src.main.java;
 
 import static java.lang.System.out;
-import src.main.SE7.Java7TypeInference;
-import src.main.SE8.UnderscoreRemoved;
-import src.main.SE9.*;
+import src.main.java.SE7.Java7TypeInference;
+import src.main.java.SE8.UnderscoreRemoved;
+import src.main.java.SE9.*;
 
 public class Java9 {
 	//SE7

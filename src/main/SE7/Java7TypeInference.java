@@ -27,7 +27,7 @@ SOFTWARE.
 ==============================================================================
 **/
 
-package src.main.SE7;
+package src.main.java.SE7;
 
 /*Class file compiled against Java 7.*/
 public class Java7TypeInference {
